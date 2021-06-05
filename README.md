@@ -7,4 +7,4 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinterface&repo=bs4Dash&theme=dracula)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinterface&repo=shinyMobile&theme=dracula)
 
-![Metrics](https://github.com/divadnojnarg/blob/master/github-metrics.svg)
+![Metrics](https://github.com/divadnojnarg/divadnojnarg/blob/master/github-metrics.svg)
